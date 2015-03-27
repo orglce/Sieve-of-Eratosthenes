@@ -68,4 +68,4 @@ public class SieveOfEratosthenes {
 		// print the prime numbers
 		System.out.println(prime_num);
 	}
-}
+} 
