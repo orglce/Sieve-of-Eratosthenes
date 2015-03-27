@@ -11,7 +11,7 @@ public class SieveOfEratosthenes {
     // if the number is replaced with zero
     // (in the array) that means that it is not prime
 
-	  public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		  // user input of biggest number
 		  Scanner in = new Scanner(System.in);
@@ -67,4 +67,5 @@ public class SieveOfEratosthenes {
 		
 		// print the prime numbers
 		System.out.println(prime_num);
-		
+	}
+}
