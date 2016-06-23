@@ -11,7 +11,7 @@ public class SieveOfEratosthenes {
     // if the number is replaced with zero
     // (in the array) that means that it is not prime
 
-    // My first commit
+    // My idea branch
 
 	public static void main(String[] args) {
 
